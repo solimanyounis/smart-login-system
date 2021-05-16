@@ -1,0 +1,33 @@
+body{
+
+
+
+    background-color: #24353f;
+}
+.group {
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+h2{
+font-size: 40px;
+font-weight: 500;
+    color: #17a2b8;
+font-family:  sans-serif;
+}
+input{
+
+width: 90% !important;
+
+
+}
+.space{
+
+    height: 25px;
+    background-color: transparent;
+}
+button
+{
+    width: 90% !important;
+
+
+
+}
